@@ -1,0 +1,7 @@
+
+*
+
+# But include index.html and images folder
+!.gitignore
+!index.html
+!images/
