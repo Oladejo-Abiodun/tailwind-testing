@@ -1,7 +1,9 @@
 
+
 *
 
-# But include index.html and images folder
+# But track these
 !.gitignore
 !index.html
-!images/
+!images/       # track images folder
+!images/**
